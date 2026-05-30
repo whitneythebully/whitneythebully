@@ -1,1 +1,2 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=whitneythebully)
+
+ ![](https://komarev.com/ghpvc/?username=whitneythebully&color=ffc3e7&label=my+loves+❤︎) 
